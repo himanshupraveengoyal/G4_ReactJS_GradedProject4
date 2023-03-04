@@ -1,0 +1,8 @@
+.card-in-displayInfo {
+  flex-direction: row;
+  margin: 10px;
+}
+
+.card-in-displayInfo card-in-displayInfo-img {
+  width: 30%;
+}
